@@ -1,0 +1,14 @@
+C:\VisualStudio\ExDadosDeFuncionario\ExDadosDeFuncionario\bin\Debug\net8.0\ExDadosDeFuncionario.exe
+C:\VisualStudio\ExDadosDeFuncionario\ExDadosDeFuncionario\bin\Debug\net8.0\ExDadosDeFuncionario.deps.json
+C:\VisualStudio\ExDadosDeFuncionario\ExDadosDeFuncionario\bin\Debug\net8.0\ExDadosDeFuncionario.runtimeconfig.json
+C:\VisualStudio\ExDadosDeFuncionario\ExDadosDeFuncionario\bin\Debug\net8.0\ExDadosDeFuncionario.dll
+C:\VisualStudio\ExDadosDeFuncionario\ExDadosDeFuncionario\bin\Debug\net8.0\ExDadosDeFuncionario.pdb
+C:\VisualStudio\ExDadosDeFuncionario\ExDadosDeFuncionario\obj\Debug\net8.0\ExDadosDeFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio\ExDadosDeFuncionario\ExDadosDeFuncionario\obj\Debug\net8.0\ExDadosDeFuncionario.AssemblyInfoInputs.cache
+C:\VisualStudio\ExDadosDeFuncionario\ExDadosDeFuncionario\obj\Debug\net8.0\ExDadosDeFuncionario.AssemblyInfo.cs
+C:\VisualStudio\ExDadosDeFuncionario\ExDadosDeFuncionario\obj\Debug\net8.0\ExDadosDeFuncionario.csproj.CoreCompileInputs.cache
+C:\VisualStudio\ExDadosDeFuncionario\ExDadosDeFuncionario\obj\Debug\net8.0\ExDadosDeFuncionario.dll
+C:\VisualStudio\ExDadosDeFuncionario\ExDadosDeFuncionario\obj\Debug\net8.0\refint\ExDadosDeFuncionario.dll
+C:\VisualStudio\ExDadosDeFuncionario\ExDadosDeFuncionario\obj\Debug\net8.0\ExDadosDeFuncionario.pdb
+C:\VisualStudio\ExDadosDeFuncionario\ExDadosDeFuncionario\obj\Debug\net8.0\ExDadosDeFuncionario.genruntimeconfig.cache
+C:\VisualStudio\ExDadosDeFuncionario\ExDadosDeFuncionario\obj\Debug\net8.0\ref\ExDadosDeFuncionario.dll
