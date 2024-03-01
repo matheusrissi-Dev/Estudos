@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VisualStudio\\Estudos\\VetoresUm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42F1F04B-4E35-494A-AEF2-80FA9248DE33}|VetoresUm\\VetoresUm.csproj|d:\\visualstudio\\estudos\\vetoresum\\vetoresum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42F1F04B-4E35-494A-AEF2-80FA9248DE33}|VetoresUm\\VetoresUm.csproj|solutionrelative:vetoresum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\Estudos\\VetoresUm\\VetoresUm\\Program.cs",
+              "RelativeDocumentMoniker": "VetoresUm\\Program.cs",
+              "ToolTip": "D:\\VisualStudio\\Estudos\\VetoresUm\\VetoresUm\\Program.cs*",
+              "RelativeToolTip": "VetoresUm\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T16:31:16.866Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

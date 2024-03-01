@@ -1,0 +1,15 @@
+D:\VisualStudio\Estudos\VetoresUm\VetoresUm\bin\Debug\net8.0\VetoresUm.exe
+D:\VisualStudio\Estudos\VetoresUm\VetoresUm\bin\Debug\net8.0\VetoresUm.deps.json
+D:\VisualStudio\Estudos\VetoresUm\VetoresUm\bin\Debug\net8.0\VetoresUm.runtimeconfig.json
+D:\VisualStudio\Estudos\VetoresUm\VetoresUm\bin\Debug\net8.0\VetoresUm.dll
+D:\VisualStudio\Estudos\VetoresUm\VetoresUm\bin\Debug\net8.0\VetoresUm.pdb
+D:\VisualStudio\Estudos\VetoresUm\VetoresUm\obj\Debug\net8.0\VetoresUm.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\Estudos\VetoresUm\VetoresUm\obj\Debug\net8.0\VetoresUm.AssemblyInfoInputs.cache
+D:\VisualStudio\Estudos\VetoresUm\VetoresUm\obj\Debug\net8.0\VetoresUm.AssemblyInfo.cs
+D:\VisualStudio\Estudos\VetoresUm\VetoresUm\obj\Debug\net8.0\VetoresUm.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Estudos\VetoresUm\VetoresUm\obj\Debug\net8.0\VetoresUm.sourcelink.json
+D:\VisualStudio\Estudos\VetoresUm\VetoresUm\obj\Debug\net8.0\VetoresUm.dll
+D:\VisualStudio\Estudos\VetoresUm\VetoresUm\obj\Debug\net8.0\refint\VetoresUm.dll
+D:\VisualStudio\Estudos\VetoresUm\VetoresUm\obj\Debug\net8.0\VetoresUm.pdb
+D:\VisualStudio\Estudos\VetoresUm\VetoresUm\obj\Debug\net8.0\VetoresUm.genruntimeconfig.cache
+D:\VisualStudio\Estudos\VetoresUm\VetoresUm\obj\Debug\net8.0\ref\VetoresUm.dll

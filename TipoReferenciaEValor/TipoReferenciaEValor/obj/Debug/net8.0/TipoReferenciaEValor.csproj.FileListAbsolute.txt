@@ -1,0 +1,15 @@
+D:\VisualStudio\Estudos\TipoReferenciaEValor\TipoReferenciaEValor\obj\Debug\net8.0\TipoReferenciaEValor.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\Estudos\TipoReferenciaEValor\TipoReferenciaEValor\obj\Debug\net8.0\TipoReferenciaEValor.AssemblyInfoInputs.cache
+D:\VisualStudio\Estudos\TipoReferenciaEValor\TipoReferenciaEValor\obj\Debug\net8.0\TipoReferenciaEValor.AssemblyInfo.cs
+D:\VisualStudio\Estudos\TipoReferenciaEValor\TipoReferenciaEValor\obj\Debug\net8.0\TipoReferenciaEValor.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Estudos\TipoReferenciaEValor\TipoReferenciaEValor\obj\Debug\net8.0\TipoReferenciaEValor.sourcelink.json
+D:\VisualStudio\Estudos\TipoReferenciaEValor\TipoReferenciaEValor\bin\Debug\net8.0\TipoReferenciaEValor.exe
+D:\VisualStudio\Estudos\TipoReferenciaEValor\TipoReferenciaEValor\bin\Debug\net8.0\TipoReferenciaEValor.deps.json
+D:\VisualStudio\Estudos\TipoReferenciaEValor\TipoReferenciaEValor\bin\Debug\net8.0\TipoReferenciaEValor.runtimeconfig.json
+D:\VisualStudio\Estudos\TipoReferenciaEValor\TipoReferenciaEValor\bin\Debug\net8.0\TipoReferenciaEValor.dll
+D:\VisualStudio\Estudos\TipoReferenciaEValor\TipoReferenciaEValor\bin\Debug\net8.0\TipoReferenciaEValor.pdb
+D:\VisualStudio\Estudos\TipoReferenciaEValor\TipoReferenciaEValor\obj\Debug\net8.0\TipoReferenciaEValor.dll
+D:\VisualStudio\Estudos\TipoReferenciaEValor\TipoReferenciaEValor\obj\Debug\net8.0\refint\TipoReferenciaEValor.dll
+D:\VisualStudio\Estudos\TipoReferenciaEValor\TipoReferenciaEValor\obj\Debug\net8.0\TipoReferenciaEValor.pdb
+D:\VisualStudio\Estudos\TipoReferenciaEValor\TipoReferenciaEValor\obj\Debug\net8.0\TipoReferenciaEValor.genruntimeconfig.cache
+D:\VisualStudio\Estudos\TipoReferenciaEValor\TipoReferenciaEValor\obj\Debug\net8.0\ref\TipoReferenciaEValor.dll
