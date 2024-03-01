@@ -1,0 +1,14 @@
+D:\VisualStudio\ExConstrutor\ExConstrutor\bin\Debug\net8.0\ExConstrutor.exe
+D:\VisualStudio\ExConstrutor\ExConstrutor\bin\Debug\net8.0\ExConstrutor.deps.json
+D:\VisualStudio\ExConstrutor\ExConstrutor\bin\Debug\net8.0\ExConstrutor.runtimeconfig.json
+D:\VisualStudio\ExConstrutor\ExConstrutor\bin\Debug\net8.0\ExConstrutor.dll
+D:\VisualStudio\ExConstrutor\ExConstrutor\bin\Debug\net8.0\ExConstrutor.pdb
+D:\VisualStudio\ExConstrutor\ExConstrutor\obj\Debug\net8.0\ExConstrutor.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\ExConstrutor\ExConstrutor\obj\Debug\net8.0\ExConstrutor.AssemblyInfoInputs.cache
+D:\VisualStudio\ExConstrutor\ExConstrutor\obj\Debug\net8.0\ExConstrutor.AssemblyInfo.cs
+D:\VisualStudio\ExConstrutor\ExConstrutor\obj\Debug\net8.0\ExConstrutor.csproj.CoreCompileInputs.cache
+D:\VisualStudio\ExConstrutor\ExConstrutor\obj\Debug\net8.0\ExConstrutor.dll
+D:\VisualStudio\ExConstrutor\ExConstrutor\obj\Debug\net8.0\refint\ExConstrutor.dll
+D:\VisualStudio\ExConstrutor\ExConstrutor\obj\Debug\net8.0\ExConstrutor.pdb
+D:\VisualStudio\ExConstrutor\ExConstrutor\obj\Debug\net8.0\ExConstrutor.genruntimeconfig.cache
+D:\VisualStudio\ExConstrutor\ExConstrutor\obj\Debug\net8.0\ref\ExConstrutor.dll

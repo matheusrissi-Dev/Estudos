@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ExContaBancaria/1.0.0": {
+        "runtime": {
+          "ExContaBancaria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExContaBancaria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
