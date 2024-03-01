@@ -1,0 +1,14 @@
+C:\VisualStudio\ExDoisAeraTriangulo\ExDoisAeraTriangulo\bin\Debug\net8.0\ExDoisAeraTriangulo.exe
+C:\VisualStudio\ExDoisAeraTriangulo\ExDoisAeraTriangulo\bin\Debug\net8.0\ExDoisAeraTriangulo.deps.json
+C:\VisualStudio\ExDoisAeraTriangulo\ExDoisAeraTriangulo\bin\Debug\net8.0\ExDoisAeraTriangulo.runtimeconfig.json
+C:\VisualStudio\ExDoisAeraTriangulo\ExDoisAeraTriangulo\bin\Debug\net8.0\ExDoisAeraTriangulo.dll
+C:\VisualStudio\ExDoisAeraTriangulo\ExDoisAeraTriangulo\bin\Debug\net8.0\ExDoisAeraTriangulo.pdb
+C:\VisualStudio\ExDoisAeraTriangulo\ExDoisAeraTriangulo\obj\Debug\net8.0\ExDoisAeraTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio\ExDoisAeraTriangulo\ExDoisAeraTriangulo\obj\Debug\net8.0\ExDoisAeraTriangulo.AssemblyInfoInputs.cache
+C:\VisualStudio\ExDoisAeraTriangulo\ExDoisAeraTriangulo\obj\Debug\net8.0\ExDoisAeraTriangulo.AssemblyInfo.cs
+C:\VisualStudio\ExDoisAeraTriangulo\ExDoisAeraTriangulo\obj\Debug\net8.0\ExDoisAeraTriangulo.csproj.CoreCompileInputs.cache
+C:\VisualStudio\ExDoisAeraTriangulo\ExDoisAeraTriangulo\obj\Debug\net8.0\ExDoisAeraTriangulo.dll
+C:\VisualStudio\ExDoisAeraTriangulo\ExDoisAeraTriangulo\obj\Debug\net8.0\refint\ExDoisAeraTriangulo.dll
+C:\VisualStudio\ExDoisAeraTriangulo\ExDoisAeraTriangulo\obj\Debug\net8.0\ExDoisAeraTriangulo.pdb
+C:\VisualStudio\ExDoisAeraTriangulo\ExDoisAeraTriangulo\obj\Debug\net8.0\ExDoisAeraTriangulo.genruntimeconfig.cache
+C:\VisualStudio\ExDoisAeraTriangulo\ExDoisAeraTriangulo\obj\Debug\net8.0\ref\ExDoisAeraTriangulo.dll

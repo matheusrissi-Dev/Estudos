@@ -1,0 +1,14 @@
+C:\VisualStudio\ExTreinamentoUmClasses\ExTreinamentoUmClasses\obj\Debug\net8.0\ExTreinamentoUmClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio\ExTreinamentoUmClasses\ExTreinamentoUmClasses\obj\Debug\net8.0\ExTreinamentoUmClasses.AssemblyInfoInputs.cache
+C:\VisualStudio\ExTreinamentoUmClasses\ExTreinamentoUmClasses\obj\Debug\net8.0\ExTreinamentoUmClasses.AssemblyInfo.cs
+C:\VisualStudio\ExTreinamentoUmClasses\ExTreinamentoUmClasses\obj\Debug\net8.0\ExTreinamentoUmClasses.csproj.CoreCompileInputs.cache
+C:\VisualStudio\ExTreinamentoUmClasses\ExTreinamentoUmClasses\bin\Debug\net8.0\ExTreinamentoUmClasses.exe
+C:\VisualStudio\ExTreinamentoUmClasses\ExTreinamentoUmClasses\bin\Debug\net8.0\ExTreinamentoUmClasses.deps.json
+C:\VisualStudio\ExTreinamentoUmClasses\ExTreinamentoUmClasses\bin\Debug\net8.0\ExTreinamentoUmClasses.runtimeconfig.json
+C:\VisualStudio\ExTreinamentoUmClasses\ExTreinamentoUmClasses\bin\Debug\net8.0\ExTreinamentoUmClasses.dll
+C:\VisualStudio\ExTreinamentoUmClasses\ExTreinamentoUmClasses\bin\Debug\net8.0\ExTreinamentoUmClasses.pdb
+C:\VisualStudio\ExTreinamentoUmClasses\ExTreinamentoUmClasses\obj\Debug\net8.0\ExTreinamentoUmClasses.dll
+C:\VisualStudio\ExTreinamentoUmClasses\ExTreinamentoUmClasses\obj\Debug\net8.0\refint\ExTreinamentoUmClasses.dll
+C:\VisualStudio\ExTreinamentoUmClasses\ExTreinamentoUmClasses\obj\Debug\net8.0\ExTreinamentoUmClasses.pdb
+C:\VisualStudio\ExTreinamentoUmClasses\ExTreinamentoUmClasses\obj\Debug\net8.0\ExTreinamentoUmClasses.genruntimeconfig.cache
+C:\VisualStudio\ExTreinamentoUmClasses\ExTreinamentoUmClasses\obj\Debug\net8.0\ref\ExTreinamentoUmClasses.dll

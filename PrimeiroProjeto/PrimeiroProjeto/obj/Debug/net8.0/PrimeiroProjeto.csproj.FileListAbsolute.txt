@@ -1,0 +1,14 @@
+C:\VisualStudio\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.exe
+C:\VisualStudio\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.deps.json
+C:\VisualStudio\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.runtimeconfig.json
+C:\VisualStudio\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.dll
+C:\VisualStudio\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.pdb
+C:\VisualStudio\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\VisualStudio\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.AssemblyInfo.cs
+C:\VisualStudio\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\VisualStudio\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.dll
+C:\VisualStudio\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\refint\PrimeiroProjeto.dll
+C:\VisualStudio\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.pdb
+C:\VisualStudio\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.genruntimeconfig.cache
+C:\VisualStudio\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\ref\PrimeiroProjeto.dll

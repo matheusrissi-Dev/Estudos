@@ -1,0 +1,14 @@
+C:\VisualStudio\ExRetangulo\ExRetangulo\obj\Debug\net8.0\ExRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio\ExRetangulo\ExRetangulo\obj\Debug\net8.0\ExRetangulo.AssemblyInfoInputs.cache
+C:\VisualStudio\ExRetangulo\ExRetangulo\obj\Debug\net8.0\ExRetangulo.AssemblyInfo.cs
+C:\VisualStudio\ExRetangulo\ExRetangulo\obj\Debug\net8.0\ExRetangulo.csproj.CoreCompileInputs.cache
+C:\VisualStudio\ExRetangulo\ExRetangulo\bin\Debug\net8.0\ExRetangulo.exe
+C:\VisualStudio\ExRetangulo\ExRetangulo\bin\Debug\net8.0\ExRetangulo.deps.json
+C:\VisualStudio\ExRetangulo\ExRetangulo\bin\Debug\net8.0\ExRetangulo.runtimeconfig.json
+C:\VisualStudio\ExRetangulo\ExRetangulo\bin\Debug\net8.0\ExRetangulo.dll
+C:\VisualStudio\ExRetangulo\ExRetangulo\bin\Debug\net8.0\ExRetangulo.pdb
+C:\VisualStudio\ExRetangulo\ExRetangulo\obj\Debug\net8.0\ExRetangulo.dll
+C:\VisualStudio\ExRetangulo\ExRetangulo\obj\Debug\net8.0\refint\ExRetangulo.dll
+C:\VisualStudio\ExRetangulo\ExRetangulo\obj\Debug\net8.0\ExRetangulo.pdb
+C:\VisualStudio\ExRetangulo\ExRetangulo\obj\Debug\net8.0\ExRetangulo.genruntimeconfig.cache
+C:\VisualStudio\ExRetangulo\ExRetangulo\obj\Debug\net8.0\ref\ExRetangulo.dll

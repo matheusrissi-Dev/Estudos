@@ -1,0 +1,14 @@
+C:\VisualStudio\ExTeinamentoDoisClasses\ExTeinamentoDoisClasses\bin\Debug\net8.0\ExTeinamentoDoisClasses.exe
+C:\VisualStudio\ExTeinamentoDoisClasses\ExTeinamentoDoisClasses\bin\Debug\net8.0\ExTeinamentoDoisClasses.deps.json
+C:\VisualStudio\ExTeinamentoDoisClasses\ExTeinamentoDoisClasses\bin\Debug\net8.0\ExTeinamentoDoisClasses.runtimeconfig.json
+C:\VisualStudio\ExTeinamentoDoisClasses\ExTeinamentoDoisClasses\bin\Debug\net8.0\ExTeinamentoDoisClasses.dll
+C:\VisualStudio\ExTeinamentoDoisClasses\ExTeinamentoDoisClasses\bin\Debug\net8.0\ExTeinamentoDoisClasses.pdb
+C:\VisualStudio\ExTeinamentoDoisClasses\ExTeinamentoDoisClasses\obj\Debug\net8.0\ExTeinamentoDoisClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio\ExTeinamentoDoisClasses\ExTeinamentoDoisClasses\obj\Debug\net8.0\ExTeinamentoDoisClasses.AssemblyInfoInputs.cache
+C:\VisualStudio\ExTeinamentoDoisClasses\ExTeinamentoDoisClasses\obj\Debug\net8.0\ExTeinamentoDoisClasses.AssemblyInfo.cs
+C:\VisualStudio\ExTeinamentoDoisClasses\ExTeinamentoDoisClasses\obj\Debug\net8.0\ExTeinamentoDoisClasses.csproj.CoreCompileInputs.cache
+C:\VisualStudio\ExTeinamentoDoisClasses\ExTeinamentoDoisClasses\obj\Debug\net8.0\ExTeinamentoDoisClasses.dll
+C:\VisualStudio\ExTeinamentoDoisClasses\ExTeinamentoDoisClasses\obj\Debug\net8.0\refint\ExTeinamentoDoisClasses.dll
+C:\VisualStudio\ExTeinamentoDoisClasses\ExTeinamentoDoisClasses\obj\Debug\net8.0\ExTeinamentoDoisClasses.pdb
+C:\VisualStudio\ExTeinamentoDoisClasses\ExTeinamentoDoisClasses\obj\Debug\net8.0\ExTeinamentoDoisClasses.genruntimeconfig.cache
+C:\VisualStudio\ExTeinamentoDoisClasses\ExTeinamentoDoisClasses\obj\Debug\net8.0\ref\ExTeinamentoDoisClasses.dll

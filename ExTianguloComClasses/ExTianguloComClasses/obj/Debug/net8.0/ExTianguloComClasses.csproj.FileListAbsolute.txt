@@ -1,0 +1,14 @@
+C:\VisualStudio\ExTianguloComClasses\ExTianguloComClasses\bin\Debug\net8.0\ExTianguloComClasses.exe
+C:\VisualStudio\ExTianguloComClasses\ExTianguloComClasses\bin\Debug\net8.0\ExTianguloComClasses.deps.json
+C:\VisualStudio\ExTianguloComClasses\ExTianguloComClasses\bin\Debug\net8.0\ExTianguloComClasses.runtimeconfig.json
+C:\VisualStudio\ExTianguloComClasses\ExTianguloComClasses\bin\Debug\net8.0\ExTianguloComClasses.dll
+C:\VisualStudio\ExTianguloComClasses\ExTianguloComClasses\bin\Debug\net8.0\ExTianguloComClasses.pdb
+C:\VisualStudio\ExTianguloComClasses\ExTianguloComClasses\obj\Debug\net8.0\ExTianguloComClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio\ExTianguloComClasses\ExTianguloComClasses\obj\Debug\net8.0\ExTianguloComClasses.AssemblyInfoInputs.cache
+C:\VisualStudio\ExTianguloComClasses\ExTianguloComClasses\obj\Debug\net8.0\ExTianguloComClasses.AssemblyInfo.cs
+C:\VisualStudio\ExTianguloComClasses\ExTianguloComClasses\obj\Debug\net8.0\ExTianguloComClasses.csproj.CoreCompileInputs.cache
+C:\VisualStudio\ExTianguloComClasses\ExTianguloComClasses\obj\Debug\net8.0\ExTianguloComClasses.dll
+C:\VisualStudio\ExTianguloComClasses\ExTianguloComClasses\obj\Debug\net8.0\refint\ExTianguloComClasses.dll
+C:\VisualStudio\ExTianguloComClasses\ExTianguloComClasses\obj\Debug\net8.0\ExTianguloComClasses.pdb
+C:\VisualStudio\ExTianguloComClasses\ExTianguloComClasses\obj\Debug\net8.0\ExTianguloComClasses.genruntimeconfig.cache
+C:\VisualStudio\ExTianguloComClasses\ExTianguloComClasses\obj\Debug\net8.0\ref\ExTianguloComClasses.dll

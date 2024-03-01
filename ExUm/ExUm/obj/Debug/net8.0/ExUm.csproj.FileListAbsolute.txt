@@ -1,0 +1,14 @@
+C:\VisualStudio\ExUm\ExUm\bin\Debug\net8.0\ExUm.exe
+C:\VisualStudio\ExUm\ExUm\bin\Debug\net8.0\ExUm.deps.json
+C:\VisualStudio\ExUm\ExUm\bin\Debug\net8.0\ExUm.runtimeconfig.json
+C:\VisualStudio\ExUm\ExUm\bin\Debug\net8.0\ExUm.dll
+C:\VisualStudio\ExUm\ExUm\bin\Debug\net8.0\ExUm.pdb
+C:\VisualStudio\ExUm\ExUm\obj\Debug\net8.0\ExUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio\ExUm\ExUm\obj\Debug\net8.0\ExUm.AssemblyInfoInputs.cache
+C:\VisualStudio\ExUm\ExUm\obj\Debug\net8.0\ExUm.AssemblyInfo.cs
+C:\VisualStudio\ExUm\ExUm\obj\Debug\net8.0\ExUm.csproj.CoreCompileInputs.cache
+C:\VisualStudio\ExUm\ExUm\obj\Debug\net8.0\ExUm.dll
+C:\VisualStudio\ExUm\ExUm\obj\Debug\net8.0\refint\ExUm.dll
+C:\VisualStudio\ExUm\ExUm\obj\Debug\net8.0\ExUm.pdb
+C:\VisualStudio\ExUm\ExUm\obj\Debug\net8.0\ExUm.genruntimeconfig.cache
+C:\VisualStudio\ExUm\ExUm\obj\Debug\net8.0\ref\ExUm.dll
