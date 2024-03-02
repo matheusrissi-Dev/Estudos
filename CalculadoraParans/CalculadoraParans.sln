@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraParans", "CalculadoraParans\CalculadoraParans.csproj", "{63E1DFB7-9C33-40EE-9D9E-47EF047DBF99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63E1DFB7-9C33-40EE-9D9E-47EF047DBF99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63E1DFB7-9C33-40EE-9D9E-47EF047DBF99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63E1DFB7-9C33-40EE-9D9E-47EF047DBF99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63E1DFB7-9C33-40EE-9D9E-47EF047DBF99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5F2FB39-3607-4CB0-ACDC-212909E04FD9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VisualStudio\\Estudos\\UsandoLista\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32DA6FAA-F82D-478C-A1AA-3368EF63F1CB}|UsandoLista\\UsandoLista.csproj|d:\\visualstudio\\estudos\\usandolista\\usandolista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32DA6FAA-F82D-478C-A1AA-3368EF63F1CB}|UsandoLista\\UsandoLista.csproj|solutionrelative:usandolista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\Estudos\\UsandoLista\\UsandoLista\\Program.cs",
+              "RelativeDocumentMoniker": "UsandoLista\\Program.cs",
+              "ToolTip": "D:\\VisualStudio\\Estudos\\UsandoLista\\UsandoLista\\Program.cs",
+              "RelativeToolTip": "UsandoLista\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T11:12:50.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

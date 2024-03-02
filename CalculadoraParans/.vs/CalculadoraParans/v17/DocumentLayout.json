@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VisualStudio\\Estudos\\CalculadoraParans\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63E1DFB7-9C33-40EE-9D9E-47EF047DBF99}|CalculadoraParans\\CalculadoraParans.csproj|d:\\visualstudio\\estudos\\calculadoraparans\\calculadoraparans\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E1DFB7-9C33-40EE-9D9E-47EF047DBF99}|CalculadoraParans\\CalculadoraParans.csproj|solutionrelative:calculadoraparans\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E1DFB7-9C33-40EE-9D9E-47EF047DBF99}|CalculadoraParans\\CalculadoraParans.csproj|d:\\visualstudio\\estudos\\calculadoraparans\\calculadoraparans\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E1DFB7-9C33-40EE-9D9E-47EF047DBF99}|CalculadoraParans\\CalculadoraParans.csproj|solutionrelative:calculadoraparans\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\Estudos\\CalculadoraParans\\CalculadoraParans\\Calculadora.cs",
+              "RelativeDocumentMoniker": "CalculadoraParans\\Calculadora.cs",
+              "ToolTip": "D:\\VisualStudio\\Estudos\\CalculadoraParans\\CalculadoraParans\\Calculadora.cs",
+              "RelativeToolTip": "CalculadoraParans\\Calculadora.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T10:43:33.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\Estudos\\CalculadoraParans\\CalculadoraParans\\Program.cs",
+              "RelativeDocumentMoniker": "CalculadoraParans\\Program.cs",
+              "ToolTip": "D:\\VisualStudio\\Estudos\\CalculadoraParans\\CalculadoraParans\\Program.cs",
+              "RelativeToolTip": "CalculadoraParans\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T10:43:19.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
