@@ -1,0 +1,15 @@
+D:\VisualStudio\Estudos\ExMatrizFixacao\ExMatrizFixacao\bin\Debug\net8.0\ExMatrizFixacao.exe
+D:\VisualStudio\Estudos\ExMatrizFixacao\ExMatrizFixacao\bin\Debug\net8.0\ExMatrizFixacao.deps.json
+D:\VisualStudio\Estudos\ExMatrizFixacao\ExMatrizFixacao\bin\Debug\net8.0\ExMatrizFixacao.runtimeconfig.json
+D:\VisualStudio\Estudos\ExMatrizFixacao\ExMatrizFixacao\bin\Debug\net8.0\ExMatrizFixacao.dll
+D:\VisualStudio\Estudos\ExMatrizFixacao\ExMatrizFixacao\bin\Debug\net8.0\ExMatrizFixacao.pdb
+D:\VisualStudio\Estudos\ExMatrizFixacao\ExMatrizFixacao\obj\Debug\net8.0\ExMatrizFixacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\Estudos\ExMatrizFixacao\ExMatrizFixacao\obj\Debug\net8.0\ExMatrizFixacao.AssemblyInfoInputs.cache
+D:\VisualStudio\Estudos\ExMatrizFixacao\ExMatrizFixacao\obj\Debug\net8.0\ExMatrizFixacao.AssemblyInfo.cs
+D:\VisualStudio\Estudos\ExMatrizFixacao\ExMatrizFixacao\obj\Debug\net8.0\ExMatrizFixacao.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Estudos\ExMatrizFixacao\ExMatrizFixacao\obj\Debug\net8.0\ExMatrizFixacao.sourcelink.json
+D:\VisualStudio\Estudos\ExMatrizFixacao\ExMatrizFixacao\obj\Debug\net8.0\ExMatrizFixacao.dll
+D:\VisualStudio\Estudos\ExMatrizFixacao\ExMatrizFixacao\obj\Debug\net8.0\refint\ExMatrizFixacao.dll
+D:\VisualStudio\Estudos\ExMatrizFixacao\ExMatrizFixacao\obj\Debug\net8.0\ExMatrizFixacao.pdb
+D:\VisualStudio\Estudos\ExMatrizFixacao\ExMatrizFixacao\obj\Debug\net8.0\ExMatrizFixacao.genruntimeconfig.cache
+D:\VisualStudio\Estudos\ExMatrizFixacao\ExMatrizFixacao\obj\Debug\net8.0\ref\ExMatrizFixacao.dll
