@@ -12,7 +12,7 @@
             LimiteEmprestimo = limiteEmprestimo;
         }
 
-        public void emprestimo(double emprestimo)
+        public void Emprestimo(double emprestimo)
         {
             if (emprestimo < LimiteEmprestimo)
             {
