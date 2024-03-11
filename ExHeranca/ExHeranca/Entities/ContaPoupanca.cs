@@ -22,5 +22,11 @@ namespace ExHeranca.Entities
             Saldo = TaxaDeJuros * Saldo;
         }
 
+        public override void Saque(double saque)
+        {
+            base.Saque(saque);
+            Saldo -= 5;
+        }
+
     }
 }

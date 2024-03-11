@@ -23,9 +23,9 @@ namespace ExHeranca.Entities
             Saldo = saldo;
         }
 
-        public void Saque(double saque)
+        public virtual void Saque(double saque)
         {
-            Saldo -= saque;
+            Saldo -= saque + 5;
         }
 
         public void Deposito(double deposito)
