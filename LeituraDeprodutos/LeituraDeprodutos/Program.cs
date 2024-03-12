@@ -19,27 +19,34 @@ namespace LeituraDeprodutos
                 Console.Write("Preço: ");
                 double price = double.Parse(Console.ReadLine());
 
-                Console.WriteLine("Este produto é: Comun // Usado // Importado -> [C][U][I] ");
-                string option = Console.ReadLine().ToUpper();
 
-                switch (option)
+                bool optionValidate = true;
+                while (optionValidate)
                 {
-                    case "C":
-                        list.Add(new Product(name, price));
-                        break;
-                    case "U":
-                        Console.Write("Data de fabriocação:");
-                        DateTime date = DateTime.Parse(Console.ReadLine());
-                        list.Add(new UsedProduct(name, price, date));
-                        break;
-                    case "I":
-                        Console.Write("Taxa de alfandega: ");
-                        double tax = double.Parse(Console.ReadLine());
-                        list.Add(new ImportedProduct(name, price, tax));
-                        break;
-                    default:
-                        Console.WriteLine("Opção invalida");
-                        break;
+                    Console.WriteLine("Este produto é: Comun // Usado // Importado -> [C][U][I] ");
+                    string option = Console.ReadLine().ToUpper();
+                    switch (option)
+                    {
+                        case "C":
+                            list.Add(new Product(name, price));
+                            optionValidate = false;
+                            break;
+                        case "U":
+                            Console.Write("Data de fabriocação:");
+                            DateTime date = DateTime.Parse(Console.ReadLine());
+                            list.Add(new UsedProduct(name, price, date));
+                            optionValidate = false;
+                            break;
+                        case "I":
+                            Console.Write("Taxa de alfandega: ");
+                            double tax = double.Parse(Console.ReadLine());
+                            list.Add(new ImportedProduct(name, price, tax));
+                            optionValidate = false;
+                            break;
+                        default:
+                            Console.WriteLine("Opção invalida. Tente outra opção");
+                            break;
+                    }
                 }
             }
             Console.WriteLine("Informações de preços");
